@@ -1,5 +1,8 @@
 package com.concurrency.basics;
 
+/**
+ * Creating a thread by extending base Thread class
+ */
 public class ThreadWay extends Thread {
 
     public void run() {
